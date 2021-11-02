@@ -1,0 +1,168 @@
+{
+  "left": [
+    {
+      "clause": "1",
+      "literal": "A"
+    },
+    {
+      "clause": "1",
+      "literal": "B"
+    },
+    {
+      "clause": "2",
+      "literal": "C"
+    },
+    {
+      "clause": "2",
+      "literal": "D"
+    },
+    {
+      "clause": "3",
+      "literal": "E"
+    },
+    {
+      "clause": "4",
+      "literal": "F"
+    },
+    {
+      "clause": "5",
+      "literal": "G"
+    },
+    {
+      "clause": "5",
+      "literal": "J"
+    },
+    {
+      "clause": "5",
+      "literal": "C"
+    },
+    {
+      "clause": "6",
+      "literal": "K"
+    },
+    {
+      "clause": "7",
+      "literal": "A"
+    },
+    {
+      "clause": "7",
+      "literal": "H"
+    },
+    {
+      "clause": "7",
+      "literal": "I"
+    },
+    {
+      "clause": "8",
+      "literal": "D"
+    },
+    {
+      "clause": "9",
+      "literal": "I"
+    },
+    {
+      "clause": "10",
+      "literal": "E"
+    },
+    {
+      "clause": "11",
+      "literal": "G"
+    }
+  ],
+  "right": [
+    {
+      "clause": "1",
+      "literal": "C"
+    },
+    {
+      "clause": "2",
+      "literal": "-E"
+    },
+    {
+      "clause": "3",
+      "literal": "w"
+    },
+    {
+      "clause": "4",
+      "literal": "J"
+    },
+    {
+      "clause": "5",
+      "literal": "K"
+    },
+    {
+      "clause": "6",
+      "literal": "w"
+    },
+    {
+      "clause": "7",
+      "literal": "w"
+    },
+    {
+      "clause": "8",
+      "literal": "-I"
+    },
+    {
+      "clause": "9",
+      "literal": "-D"
+    },
+    {
+      "clause": "10",
+      "literal": "-G"
+    },
+    {
+      "clause": "11",
+      "literal": "-E"
+    }
+  ],
+  "meaning": [
+    {
+      "literal": "A",
+      "meaning": "Allrad Antrieb"
+    },
+    {
+      "literal": "B",
+      "meaning": "Schiebedach"
+    },
+    {
+      "literal": "C",
+      "meaning": "Anhängerkupplung"
+    },
+    {
+      "literal": "D",
+      "meaning": "6-Gang Getriebe"
+    },
+    {
+      "literal": "E",
+      "meaning": "Cabrio"
+    },
+    {
+      "literal": "F",
+      "meaning": "Fahrassistenz"
+    },
+    {
+      "literal": "G",
+      "meaning": "Dachgepäckträger"
+    },
+    {
+      "literal": "H",
+      "meaning": "Ledersitze"
+    },
+    {
+      "literal": "I",
+      "meaning": "Automatik"
+    },
+    {
+      "literal": "J",
+      "meaning": "Rückfahrkamera"
+    },
+    {
+      "literal": "K",
+      "meaning": "Kombi"
+    },
+    {
+      "literal": "w",
+      "meaning": "Valides Auto"
+    }
+  ]
+}
